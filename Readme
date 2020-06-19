@@ -1,0 +1,8 @@
+1,安装依赖关系
+yum install openssh-devel
+yum install sqlite-devel
+编译python3
+
+
+pip install django==1.11.11
+pip install ldap3
